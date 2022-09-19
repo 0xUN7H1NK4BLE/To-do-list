@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: gray;
+}
+
+
+.done {
+    text-decoration: line-through;
+}
+
+li{
+    text-align: start;
+    color: aqua;
+    font-size: 25px;
+}
+
+button{
+    margin: 5px 10px;
+    background-color: rgb(45, 104, 138);
+    color: #fff;
+    border: 5px;
+
+}
+
+h1{
+    font-size: 50px;
+    color:slateblue ;
+}
